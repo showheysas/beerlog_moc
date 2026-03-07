@@ -1,11 +1,11 @@
 {
-    "name": "beer_log_map",
-    "short_name": "beer_log_map",
+    "name": "びあログ",
+    "short_name": "びあログ",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0D1117",
+    "theme_color": "#C9A84C",
+    "description": "ビール好きのための店舗マップアプリ",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
